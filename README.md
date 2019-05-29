@@ -34,8 +34,8 @@ I think the hardest part of this challenge was understanding the Movie Database.
 
 ## Design
 
-I wanted simple design to match the simplicity of the app. This app is more about viewing the information so I focused most of the design elements around making the information individualized and easy to read.
+I wanted a simple design to match the simplicity of the app. This app is more about viewing the information so I focused most of the design elements around making the information individualized and easy to read.
 
 ## Future Improvements
 
-If I had more time I would add a share button as well as individual displace for a selected movie. This display would show all the information stored on the database about that particular movie.
+If I had more time I would add a share button as well as individual display for a selected movie. This display would show all of the information stored on the database for that particular movie.
